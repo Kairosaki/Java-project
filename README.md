@@ -19,6 +19,6 @@ To access project when you run it use port 8080
     username : user                             
     password : test                             
 
-- ADMIN
-    username : admin
-    password : password
+- ADMIN  
+    username : admin  
+    password : password  
